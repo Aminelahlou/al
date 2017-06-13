@@ -1,0 +1,28 @@
+{
+  "name": "al",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "1": "node 1.js",
+    "2": "node 2.js",
+    "3": "node 3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aminelahlou/al.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aminelahlou/al/issues"
+  },
+  "homepage": "https://github.com/Aminelahlou/al#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "fast-levenshtein": "^2.0.6",
+    "request": "^2.81.0"
+  }
+}

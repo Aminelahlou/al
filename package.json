@@ -9,6 +9,7 @@
     "3": "node 3.js",
     "4": "node 4.js",
     "5": "node 5.js",
+    "6": "node 6-mémoire.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
